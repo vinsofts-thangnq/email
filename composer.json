@@ -1,0 +1,12 @@
+{
+    "name": "thangbeo/email",
+    "description": "email packages",
+    "authors": [
+        {
+            "name": "vinsofts-thangnq",
+            "email": "thangnq@vinsofts.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
